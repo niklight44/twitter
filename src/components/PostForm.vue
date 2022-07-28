@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import InputField from "@/components/InputField";
+import InputField from "@/components/UI/BaseInput";
 import BaseButton from "@/components/UI/BaseButton";
 
 export default {
